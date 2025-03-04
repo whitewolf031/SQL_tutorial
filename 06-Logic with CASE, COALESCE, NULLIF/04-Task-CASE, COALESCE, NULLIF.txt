@@ -1,0 +1,22 @@
+1. Quyidagi kodni bajaring (yozuvlar taskni to'g'ri ishlashini tekshirish uchun zarur):
+
+insert into customers(customer_id, contact_name, city, country, company_name)
+values 
+('AAAAA', 'Alfred Mann', NULL, 'USA', 'fake_company'),
+('BBBBB', 'Alfred Mann', NULL, 'Austria','fake_company');
+
+Shundan so'ng, bu vazifani bajaring:
+Mijozning kontakti nomini, uning shahri va mamlakatini kontakt nomi va shahri boʻyicha ortib boruvchi tartibda tartiblash
+va agar shahar NULL bo'lsa, u holda aloqa nomi va mamlakat bo'yicha. Oldindan kiritilgan qatorlar yordamida natijani tekshiring.
+
+2. Mahsulot nomi, mahsulot narxi va qiymat ustunini ko'rsating
+
+too expensive если цена >= 100
+
+average если цена >=50 но < 100
+
+low price если цена < 50
+
+3. Bitta ham buyurtma qilmagan mijozlarni toping. Agar order_id = NULL bo'lsa mijoz nomini ko'rsating. 
+
+4. Xodimlarning to'liq ismlarini va ularning lavozimlarini ko'rsating. Agar position= Sales Representative bo'lsa uning o'rniga Sales Stuff ni ko'rsating.

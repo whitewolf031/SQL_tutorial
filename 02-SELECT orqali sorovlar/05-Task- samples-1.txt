@@ -1,0 +1,13 @@
+1. Mijozlar jadvalidagi barcha ma'lumotlarni tanlang
+
+2. Mijozlar jadvalidagi barcha yozuvlarni tanlang, lekin faqat "kontakt nomi" va "shahar" ustunlarini tanlang
+
+3. Buyurtmalar jadvalidan barcha yozuvlarni tanlang. Buyurtma identifikatori va qiymatni jo'natish sanasi va buyurtmani yaratish sanasi o'rtasidagi farqni hisoblaydigan  ustunlarni oling.
+
+4. Mijozlar jadvalidan “roʻyxatdan oʻtgan” barcha noyob shaharlarni tanlang.
+
+5. Mijozlar jadvalidan "ro'yxatdan o'tgan" shaharlar va mamlakatlarning barcha noyob kombinatsiyalarini tanlang.
+
+6. Mijozlar sonini hisoblang
+
+7. Mijozlar jadvalidan  "ro'yxatdan o'tgan" noyob mamlakatlar sonini hisoblang

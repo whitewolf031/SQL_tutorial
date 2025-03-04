@@ -1,0 +1,11 @@
+1. Frantsiya, Avstriya, Ispaniya mamlakatlaridagi barcha buyurtmalarni tanlang
+
+2. Barcha buyurtmalarni tanlang. Required_date ustunini kamayish bo‘yicha va yetkazib berish sanasi ustunini o‘sish bo‘yicha tartiblang.
+
+3. Sotuvda 30 donadan ortiq bo'lgan mahsulotlar orasidan minimal mahsulotni tanlang.
+
+4. Savdoda 30 donadan ortiq bo'lgan mahsulotlar orasidan maksimal mahsulotni tanlang.
+
+5. AQShda buyurtma qilingan kundan boshlab etkazib berish uchun zarur bo'lgan kunlarning o'rtacha qiymatini toping
+
+6. Tovarlar (miqdori * narxi) va kelajakda sotilishi rejalashtirilgan tovarlar miqdorini toping (discontinued ustuni)

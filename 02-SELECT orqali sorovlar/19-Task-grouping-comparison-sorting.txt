@@ -1,0 +1,22 @@
+1. Buyurtmalardan (orders table) barcha U bilan boshlanadigan mamlakatlar nomini oling
+
+2. Buyurtmalardan (orders table) (buyurtma identifikatori, mijoz identifikatori, 
+ogʻirlik va yetkazib berish mamlakati ustida qatorlarini oʻz ichiga olgan holda) 
+tanlang, ular N bilan boshlanadigan mamlakatlarga yetkazilishi kerak boʻlgan vaqtida, 
+ogʻirlik boʻyicha (kamayish tartibida) tartiblang va faqatgina birinchi 10 yozuvni chiqaring.
+
+3. Employees tabledan qayerda mintaqa maʼlum emasligiga qarab ism, familiya, telefon, mintaqa kabi ustunlarni oʻz ichiga olgan holda tanlang
+
+4. Mintaqasi ma'lum bo'lgan mijozlar sonini hisoblang
+
+5. Har bir mamlakatdagi etkazib beruvchilar sonini hisoblang va guruhlash natijalarini sonning kamayishiga qarab tartiblang
+
+6. Buyurtmalarning umumiy og'irligini (hududi ma'lum) mamlakat bo'yicha hisoblang, 
+so'ngra umumiy og'irligi bo'yicha filtrlang (faqat umumiy og'irligi 2750 dan ortiq bo'lgan yozuvlarni ko'rsating) 
+va umumiy og'irlikning kamayishiga qarab tartiblang.
+
+7. Mijozlar va yetkazib beruvchilarning barcha noyob mamlakatlarini tanlang va mamlakatlarni o'sish tartibida tartiblang
+
+8. Mijozlar, etkazib beruvchilar va xodimlar bir vaqtning o'zida "ro'yxatdan o'tgan" mamlakatlarni tanlang.
+
+9. Xaridorlar ham, etkazib beruvchilar ham "ro'yxatdan o'tgan" lekin xodimlar "ro'yxatdan o'tmagan" mamlakatlarni tanlang.

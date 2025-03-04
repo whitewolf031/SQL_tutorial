@@ -1,0 +1,36 @@
+1. Ushbu ustunlarga ega exam jadvalini yarating:
+- imtihon identifikatori - avtomatik oshirish, noyob , NULLni taqiqlaydi; 
+- imtihon nomi 
+- imtihon sanalari
+
+2. Identifikator maydonidan yagonalik cheklovini olib tashlang
+
+3. ID maydoniga asosiy kalit cheklovini qo'shing
+
+4. Ushbu ustunlarga ega person jadvalini yarating:
+- identifikator (int, asosiy kalit) 
+- ism 
+- familiya
+
+5. Ushbu ustunlarga ega pasport jadvalini yarating:
+- pasport identifikatori (oddiy int, asosiy kalit) 
+- seriya raqami (oddiy int, NULLni taqiqlaydi) 
+- registratsiya 
+- identifikatorga havola (tashqi kalit)
+
+6. book jadvaliga weight ustunini qo'shing (ilgari yaratilgan) weight ni tekshirish uchun cheklov (0 dan katta, lekin 100 dan kam)
+
+7. weight chegarasi ishlayotganiga ishonch hosil qiling (yaroqsiz qiymat kiritib ko'ring)
+
+8. Ushbu ustunlarga ega student jadvalini yarating:
+- identifikator (avtomatik o'sish) 
+- to'liq ism 
+- kurs (default 1)
+
+9. Talabalar jadvaliga yozuv kiriting va kurs default qiymat qabul qilishiga ishonch hosil qiling
+
+10. Talabalar jadvalidan "default" cheklovni olib tashlang
+
+11. Northwind ma'lumotlar bazasiga ulaning va products jadvalining unit_price maydoniga cheklov qo'shing (narx 0 dan katta bo'lishi kerak)
+
+12. Mahsulotlar jadvalining product_id maydonida (northwind ma'lumotlar bazasi) avtomatik o'sish hisoblagichini o'rnating. Hisoblagich ushbu ustundagi maksimal qiymat yonidagi raqamdan boshlanishi kerak.ать так, чтобы в результате команды вернулось значение, сгенерированное в качестве идентификатора.

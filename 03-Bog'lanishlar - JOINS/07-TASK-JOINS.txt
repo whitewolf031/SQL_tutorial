@@ -1,0 +1,5 @@
+1. London shahridagi mijozlar va xodimlarga o'xshab o'z buyurtmalariga xizmat ko'rsatadigan mijozlar va xodimlarni toping va etkazib berish Speedy Express orqali amalga oshiriladi. Mijozning kompaniyasi va xodimning to'liq ismini ko'rsating.
+2. Sotuvda 20 donadan kam bo'lgan ichimliklar va dengiz mahsulotlari toifasidan faol (to'xtatilgan maydonga qarang) mahsulotlarni toping. 
+Mahsulotlar nomini, sotuvga qo'yilgan birliklar sonini, etkazib beruvchining aloqasi nomini va uning telefon raqamini ko'rsating.
+3. Buyurtma qilmagan mijozlarni toping. Mijoz nomi va order_id chop eting.
+4. Tepadagi so'rovni simmetrik turdagi birikma yordamida qayta yozing (LEFT -> RIGHT).

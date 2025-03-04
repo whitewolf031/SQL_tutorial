@@ -1,0 +1,7 @@
+1. Sotuvdagi miqdori eng kichik o'rtacha mahsulot miqdoridan kam bo'lgan mahsulotlarni buyurtma tafsilotlarida ko'rsatish (product_id bo'yicha guruhlash). Olingan jadvalda mahsulot_nomi va stokdagi_birliklar ustunlari bo'lishi kerak.
+
+2. Yuk tashish narxi barcha buyurtmalarning o‘rtacha yuk narxidan katta yoki unga teng bo‘lgan buyurtmalar bo‘yicha mijoz-kompaniyalar uchun buyurtmalarning umumiy hajmini ko‘rsatadigan so‘rovni yozing, shuningdek buyurtmani jo‘natish sanasi iyul oyining ikkinchi yarmida bo‘lishi kerak. 1996 yil. Olingan jadvalda customer_id va freight_sum ustunlari bo'lishi kerak, ularning qatorlari buyurtma yuk miqdori bo'yicha tartiblanishi kerak.
+
+3. 1997-yil 1-sentabrdan keyin yaratilgan va Janubiy Amerika mamlakatlariga yetkazib berilgan 3 ta eng yuqori qiymatli buyurtmani qaytaruvchi soʻrovni yozing. Umumiy xarajat chegirmani hisobga olgan holda buyurtma qismlari narxining yig'indisi sifatida hisoblanadi. Olingan jadvalda customer_id, ship_country va order_price ustunlari bo'lishi kerak, ularning satrlari buyurtma qiymati bo'yicha teskari tartibda saralanishi kerak.
+
+4. Aynan 10 tasi buyurtma qilingan barcha mahsulotlarni (noyob mahsulot nomlari) ko'rsating (albatta, buni pastki so'rovsiz hal qilish mumkin).

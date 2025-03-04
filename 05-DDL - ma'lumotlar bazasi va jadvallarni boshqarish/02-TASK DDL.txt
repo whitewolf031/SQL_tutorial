@@ -1,0 +1,17 @@
+1. teacher_id serial, first_name varchar, last_name varchar, birthday date, phone varchar, title varchar ustunlariga ega teacher jadvalini yarating yarating.
+
+2. Jadvalga yaratilgandan keyin middle_name varchar ustunini qo'shing
+
+3. middle_name ustunini olib tashlang
+
+4. birthday ustunini birth_date ga o'zgartiring
+
+5. phone ustuni ma'lumotlar turini varchar(32) ga o'zgartiring
+
+6. exam_id serial, exam_name varchar(256), exam_date date ustunlarga ega exam nomli jadval yarating
+
+7. Identifikatorni avtomatik yaratish bilan istalgan uchta yozuvni kiriting
+
+8. To'liq tanlovdan foydalanib, ma'lumotlar normal kiritilganiga va identifikatorlar bosqichma-bosqich yaratilganligiga ishonch hosil qiling.
+
+9. Jadvaldagi barcha ma'lumotlarni o'chiring va identifikatorni asl holatiga qaytaring
